@@ -2,8 +2,7 @@
     "name": "sockets",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "pxt-sockets": "github:pelikhan/pxt-sockets#v0.0.23"
+        "device": "*"
     },
     "files": [
         "main.blocks",
